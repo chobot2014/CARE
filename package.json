@@ -1,0 +1,22 @@
+{
+  "name": "care",
+  "version": "1.0.0",
+  "description": "website for Cat's Angels",
+  "main": "Server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node Server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chobot2014/CARE.git"
+  },
+  "author": "John Chohon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chobot2014/CARE/issues"
+  },
+  "homepage": "https://github.com/chobot2014/CARE#readme"
+}
